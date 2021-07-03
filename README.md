@@ -59,7 +59,7 @@ Found in the forwarder folder. install with any of the title installers. Some pe
 - [x] [tinwoo installer](https://github.com/mrdude2478/TinWoo/releases) (1.0.3) Quick info - a title installer. If you have stuff you want to install, and are trying to figure out how to get it on the system, turn here. 
 - [x] [tinfoil installer](https://tinfoil.io/Download#download) Quick info - 'that' application. It's an installer of sorts.... it does a lot of things. Run it only one time from the homebrew menu to install it to the main title game area. Run it from there after. If you run it twice, it tends to corrupt it. If you do happen to do that, delete it and run it again from the homebrew menu -one time-. 
 - [x] [CommonProblemResolver](https://github.com/Team-Neptune/CommonProblemResolver/releases/) (v0.3.4) Quick info - A bin file that can help fix some common issues. One of those you don't really have to worry about it until you need it kind of things.
-- [x] [sys-cw](https://github.com/Slluxx/sys-cw/releases) (v1.00) Quick info - A fix for tinfoils 'red screen' nag. Lets you boot with either boot option without tinfoil complaining.
+- [x] [sys-cw](https://github.com/Slluxx/sys-cw/releases) (v1.01) Quick info - A fix for tinfoils 'red screen' nag. Lets you boot with either boot option without tinfoil complaining.
 - [x] [NX Theme Installer](https://github.com/exelix11/SwitchThemeInjector/releases) Quick info - theme installer. Included is one set of themes to try
 - [x] [Linkalho](https://github.com/rdmrocha/linkalho/) Quick info - can be used to fake link your accounts to nintendo services. Allows you to play some games that have that as a requirement. No, it doesn't help you get online or anything else account related. 
 
