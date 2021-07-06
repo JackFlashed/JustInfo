@@ -4,7 +4,7 @@
 
 - [x] [Hekate](https://github.com/CTCaer/hekate/releases): (Included: hekate v5.5.7 & Nyx v1.0.4) Quick info - bootloader and an all around multitool. 
 
-- [x] [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases): (Included version: Atmosphère 0.19.4 + fusee-primary.bin)
+- [x] [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases): (Included version: Atmosphère 0.19.5 + fusee-primary.bin)
 (I included both fusee-primary, as well as secondary. Was this necessary? No. Again.. I like options. The file size addition is tiny.) Quick info - what makes your firmware custom. 
 
 ##### Sigpatches 
