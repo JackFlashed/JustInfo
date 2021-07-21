@@ -21,7 +21,7 @@
 Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 Quick info - The controller pairing dialog can be accessed from the home screen via Controllers->Change Grip/Order. While sitting on this screen, place your controller in pairing mode.
 
-- [x] [Tesla](https://github.com/WerWolv/Tesla-Menu/releases)/[nxovlloader](https://github.com/WerWolv/nx-ovlloader/releases): (Included versions: v1.0.6 / v1.1.3)
+- [x] [Tesla](https://github.com/WerWolv/Tesla-Menu/releases)/[nxovlloader](https://github.com/WerWolv/nx-ovlloader/releases): (Included versions: v1.0.6 / v1.1.4)
 The above is to set up the telsa menu overlay. Many overlays are preincluded.
 Quick info -  to bring up the telsa menu the button combo is:
 L and DPad Down and push on the right joy stick. [If this is confusing to you, see the included image.](https://github.com/JackFlashed/friendly-doodle/blob/main/TelsaButtonCombo.png)
