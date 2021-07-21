@@ -17,7 +17,7 @@
 
 - [x] [AIO Updater](https://github.com/HamletDuFromage/AIO-switch-updater/releases/): (Included version: v2.6.1) Quick info: a useful tool to update a variety of things. It can grab firmware for updates if necessary, sigpatches (you don't need to however with this pack, they are included), and even things like cheats to work with other applications. 
 
-- [x] [Mission Control](https://github.com/ndeadly/MissionControl/releases/): (Included: MissionControl 0.5.0 pre-release 4)
+- [x] [Mission Control](https://github.com/ndeadly/MissionControl/releases/): (Included: MissionControl 0.5.0)
 Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 Quick info - The controller pairing dialog can be accessed from the home screen via Controllers->Change Grip/Order. While sitting on this screen, place your controller in pairing mode.
 
