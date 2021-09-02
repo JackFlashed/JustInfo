@@ -2,10 +2,9 @@
 
 ### Stuff that makes the gears spin:
 
-- [x] [Hekate](https://github.com/CTCaer/hekate/releases): (Included: hekate v5.5.8 & Nyx v1.0.4) Quick info - bootloader and an all around multitool. 
+- [x] [Hekate](https://github.com/CTCaer/hekate/releases): Quick info - bootloader and an all around multitool. 
 
-- [x] [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases): (Included version: Atmosphère 0.19.5 + fusee-primary.bin)
-(I included both fusee-primary, as well as secondary. Was this necessary? No. Again.. I like options. The file size addition is tiny.) Quick info - what makes your firmware custom. 
+- [x] [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases)
 
 ##### Sigpatches 
 (Kind of what makes some of the gears turn in the background. For example, if you ask the switch to run code, it may ask 'should I?' sigpatches can make it not ask such questions. A very basic example, but hopefully informative. Much effort has been made to make these not a concern.)
@@ -78,9 +77,7 @@ Found in the forwarder folder. install with any of the title installers. Some pe
 
 - [x] exosphere.ini (blanks your serial number) included
 
-- [x] Added 3 shops as default to tinfoil (No set up needed. Shops often come and go, but at the time of release, this is functional without any other work. If you get failed to load messages on any of them, you can remove them.)
-
-- [x] Block tinfoil.io / 162.252.82.229 telemetry * note - this will allow you to connect to shops still / otherwise use tinfoil, however it will prevent updates and may prevent loading of icons or images. However, it should still remain functional otherwise. IF you wish to remove this block, edit the hosts file: SD:\atmosphere\hosts\emummc.txt and remove the lines: 127.0.0.1 *tinfoil.io and 127.0.0.1 *162.252.82.229
+- [x] Added some shops as default to tinfoil (No set up needed. Shops often come and go, but at the time of release, this is functional without any other work. If you get failed to load messages on any of them, you can remove them.)
 
 - [x] Added fastcfw config - allows you to swap boot options easy or return to hekate... fast! 
 
